@@ -1,1 +1,2 @@
-print(1)
+class Factory:
+    pass
